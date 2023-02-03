@@ -1,7 +1,7 @@
 /**
  * CSCI 2540
  * @author Jonathan Smedley
- * Assignment 3
+ * Assignment 2
  * RosterInterface
  */
 
